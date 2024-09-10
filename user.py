@@ -1,5 +1,15 @@
+# 1. install git
+# 2. create github account and create new repository
+
+# 3. go to terminal / cmd and write below commands
+
 # git config --global user.name "Ramesh Pradhan"
 # git config --global user.email "pyrameshpradhan@gmail.com"
+
+# 4. git init
+# 5. git add .
+# 6. git commit -m "Your commit message"
+# copy paste git commands from github new repository
 
 import csv
 
