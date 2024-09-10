@@ -1,6 +1,7 @@
 # git config --global user.name "Ramesh Pradhan"
 # git config --global user.email "pyrameshpradhan@gmail.com"
 
+import csv
 
 import sqlite3
 
@@ -49,9 +50,6 @@ def create_table(conn):
     cur = conn.cursor()
     cur.execute(CREATE_USERS_TABLE_QUERY)
     print("User table was created successfully.")
-
-
-import csv
 
 
 def read_csv():
