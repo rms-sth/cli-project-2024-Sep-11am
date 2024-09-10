@@ -11,6 +11,11 @@
 # 6. git commit -m "Your commit message"
 # copy paste git commands from github new repository
 
+
+# git add .
+# git commit -m "your commit message"
+# git push origin
+
 import csv
 
 import sqlite3
